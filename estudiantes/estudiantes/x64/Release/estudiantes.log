@@ -1,0 +1,7 @@
+﻿  estudiantes.cpp
+C:\Users\keila\Documents\estudiantes\estudiantes\estudiantes.h(5,1): error C3872: '0xa0': este carácter no se permite en un identificador
+  (compilando archivo de origen "estudiantes.cpp")
+  
+C:\Users\keila\Documents\estudiantes\estudiantes\estudiantes.h(5,1): error C1021: comando de preprocesador 'include ' no válido
+  (compilando archivo de origen "estudiantes.cpp")
+  

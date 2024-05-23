@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keila\\Documents\\estudiantes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1197310E-3AE6-4A5E-92AB-D7C190E6DAE0}|estudiantes\\estudiantes.vcxproj|C:\\Users\\keila\\Documents\\estudiantes\\estudiantes\\estudiantes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1197310E-3AE6-4A5E-92AB-D7C190E6DAE0}|estudiantes\\estudiantes.vcxproj|solutionrelative:estudiantes\\estudiantes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1197310E-3AE6-4A5E-92AB-D7C190E6DAE0}|estudiantes\\estudiantes.vcxproj|C:\\Users\\keila\\Documents\\estudiantes\\estudiantes\\estudiantes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1197310E-3AE6-4A5E-92AB-D7C190E6DAE0}|estudiantes\\estudiantes.vcxproj|solutionrelative:estudiantes\\estudiantes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1197310E-3AE6-4A5E-92AB-D7C190E6DAE0}|estudiantes\\estudiantes.vcxproj|C:\\Users\\keila\\Documents\\estudiantes\\estudiantes\\ConexionDB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1197310E-3AE6-4A5E-92AB-D7C190E6DAE0}|estudiantes\\estudiantes.vcxproj|solutionrelative:estudiantes\\ConexionDB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1197310E-3AE6-4A5E-92AB-D7C190E6DAE0}|estudiantes\\estudiantes.vcxproj|C:\\Users\\keila\\Documents\\estudiantes\\estudiantes\\conexionDB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1197310E-3AE6-4A5E-92AB-D7C190E6DAE0}|estudiantes\\estudiantes.vcxproj|solutionrelative:estudiantes\\conexionDB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "estudiantes.h",
+              "DocumentMoniker": "C:\\Users\\keila\\Documents\\estudiantes\\estudiantes\\estudiantes.h",
+              "RelativeDocumentMoniker": "estudiantes\\estudiantes.h",
+              "ToolTip": "C:\\Users\\keila\\Documents\\estudiantes\\estudiantes\\estudiantes.h",
+              "RelativeToolTip": "estudiantes\\estudiantes.h",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAE4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-21T13:37:44.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConexionDB.h",
+              "DocumentMoniker": "C:\\Users\\keila\\Documents\\estudiantes\\estudiantes\\ConexionDB.h",
+              "RelativeDocumentMoniker": "estudiantes\\ConexionDB.h",
+              "ToolTip": "C:\\Users\\keila\\Documents\\estudiantes\\estudiantes\\ConexionDB.h",
+              "RelativeToolTip": "estudiantes\\ConexionDB.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T13:33:33.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "conexionDB.cpp",
+              "DocumentMoniker": "C:\\Users\\keila\\Documents\\estudiantes\\estudiantes\\conexionDB.cpp",
+              "RelativeDocumentMoniker": "estudiantes\\conexionDB.cpp",
+              "ToolTip": "C:\\Users\\keila\\Documents\\estudiantes\\estudiantes\\conexionDB.cpp",
+              "RelativeToolTip": "estudiantes\\conexionDB.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T13:32:44.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "estudiantes.cpp",
+              "DocumentMoniker": "C:\\Users\\keila\\Documents\\estudiantes\\estudiantes\\estudiantes.cpp",
+              "RelativeDocumentMoniker": "estudiantes\\estudiantes.cpp",
+              "ToolTip": "C:\\Users\\keila\\Documents\\estudiantes\\estudiantes\\estudiantes.cpp*",
+              "RelativeToolTip": "estudiantes\\estudiantes.cpp*",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAD0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T13:23:46.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
